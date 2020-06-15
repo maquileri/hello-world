@@ -1,2 +1,5 @@
 # hello-world
-Learning to code with JavaScript
+Hey humans! 
+Learning to code with JavaScript.
+
+
